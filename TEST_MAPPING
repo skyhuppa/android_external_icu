@@ -1,0 +1,16 @@
+{
+  "presubmit": [
+    {
+      "name": "CtsIcu4cTestCases"
+    },
+    {
+      "name": "minikin_tests"
+    }
+  ],
+  "ravenwood-postsubmit": [
+    {
+      "name": "CtsIcuTestCasesRavenwood",
+      "host": true
+    }
+  ]
+}
